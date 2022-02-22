@@ -17,6 +17,8 @@
 // O(n) time complexity, n is the length of the array
 // O(n) space complexity, store the values inside a hash
 
+// https://leetcode.com/problems/two-sum/
+
 var twoSum = function(nums, target) {
   const hash = {};
   for (let i = 0; i < nums.length; i++) {
