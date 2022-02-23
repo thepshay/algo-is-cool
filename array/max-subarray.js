@@ -6,7 +6,7 @@
 // Record the sum of the subarrays
 // Return the max value from the subarray
 // o(n^2) time complexity, use nested loop 
-// o(1) space complexity
+// o(n) space complexity
 
 // o(n)
 // Set, tempMax = nums[0], globalMax = nums[0]
